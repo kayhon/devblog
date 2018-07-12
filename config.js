@@ -8,8 +8,8 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
     website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald'
+    github: 'https://github.com/kayhon',
+    twitter: 'https://twitter.com/bytemediateam',
+    linkedin: 'https://ca.linkedin.com/in/kayhon1'
   }
 };
