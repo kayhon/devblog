@@ -7,7 +7,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
+    website: 'https://lizajacker.000webhostapp.com/',
     github: 'https://github.com/kayhon',
     twitter: 'https://twitter.com/bytemediateam',
     linkedin: 'https://ca.linkedin.com/in/kayhon1'
